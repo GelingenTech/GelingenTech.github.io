@@ -14,7 +14,7 @@ body {
     color: white;
     text-align: center;
     padding: 100px 0;
-    transition: background-color 0.5s ease;
+    transition: background-color 1.00s ease;
 }
 body.scrolled .intro {
     background-color: white;
