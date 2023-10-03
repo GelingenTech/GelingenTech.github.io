@@ -20,7 +20,7 @@ margin: 80px;
     background-color: black;
     color: white;
     text-align: center;
-    padding: 100px 0;
+    padding: 60px 0;
     transition: background-color 1.00s ease;
 }
 body.scrolled .intro {
